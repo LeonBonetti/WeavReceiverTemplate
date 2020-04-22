@@ -1,26 +1,16 @@
-from telethon import TelegramClient, events
+from telethon import TelegramClient
 import json
 
-api_id =  0
+api_id = 0
 api_hash = ''
 client = TelegramClient('weaver', api_id, api_hash)
 
-    # message_id: number;
-    # from_id?: number;
-    # from_user?: string;
-    # chat_id: number;
-    # date: number;
-    # text?: string;
-    # reply_message_id?: number;
-    # voice_id?: string;
-    # image_id?: string;
-    # link?: string; 
 
 async def GetHistory():
     f = open('./storage/messages.json', 'a')
     f.write('[')
 
-    async for message in client.iter_messages('InterNationalChatting', 500):
+    async for message in client.iter_messages('testebot1232', 1):
         # print('ID:', message.id, 'Text:', message.text)
         content = {
             "message_id": message.id,
@@ -46,11 +36,19 @@ async def GetHistory():
                 path = await message.download_media('./storage/'+str(content["chat_id"])+'/'+str(message.media.document.id))
                 content['voice_path'] = path
                 content['voice_id'] = message.media.document.id
+            
+            elif message.media.document:
+                # download
+                path = await message.download_media('./storage/'+str(content["chat_id"])+'/'+str(message.media.document.id))
+                content['media_path'] = path
+                content['media_id'] = message.media.document.id
         except:
             pass
+
+
         f.write(str(json.dumps(content))+',')
 
-        print(content)
+        print(message)
     f.write(']')
     f.close()
     
