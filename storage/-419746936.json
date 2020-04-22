@@ -1,0 +1,16 @@
+[
+    {"message_id":3,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":-419746936,"date":1587061250}, 
+    {"message_id":4,"from_id":933732398,"chat_id":-419746936,"date":1587061290,"text":"Alguma"}, 
+    {"message_id":5,"from_id":933732398,"chat_id":-419746936,"date":1587061292,"text":"Coisa"}, 
+    {"message_id":6,"from_id":933732398,"chat_id":-419746936,"date":1587061328,"image_id":"storage/file_0.jpg"}, 
+    {"message_id":7,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":-419746936,"date":1587061379,"text":"Oi oi"}, 
+    {"message_id":8,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":-419746936,"date":1587061400,"text":"Teste","reply_message_id":4}, 
+    {"message_id":9,"from_id":933732398,"chat_id":-419746936,"date":1587061428,"text":"Que É"}, 
+    {"message_id":12,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":-419746936,"date":1587061488,"voice_id":"storage/file_1.oga"}, 
+    {"message_id":13,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":-419746936,"date":1587062131,"text":"Oi"}, 
+    {"message_id":14,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":-419746936,"date":1587062976,"text":"Fala galera"}, 
+    {"message_id":15,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":-419746936,"date":1587063025,"text":" teste de LINK https://www.fastshop.com.br/web/p/d/UXZS660128PTO_PRD/rog-phone-ii-black-asus-com-tela-de-659-4g-128-gb-e-camera-dual-4813mp-zs660kl-1a038br?partner=parceiro-google&cm_mmc=cpc_Google-_-S_DSA_TE-_-TE_Asus_Rog_Phone_2-_-nd&gclid=Cj0KCQjwm9D0BRCMARIsAIfvfIb4bIlNyhrqTJIHfZdppsa1No5XvcQmXxHrjXhlJwcdiKzB2OR4t-oaAmBaEALw_wcB","link":"https://www.fastshop.com.br/web/p/d/UXZS660128PTO_PRD/rog-phone-ii-black-asus-com-tela-de-659-4g-128-gb-e-camera-dual-4813mp-zs660kl-1a038br?partner=parceiro-google&cm_mmc=cpc_Google-_-S_DSA_TE-_-TE_Asus_Rog_Phone_2-_-nd&gclid=Cj0KCQjwm9D0BRCMARIsAIfvfIb4bIlNyhrqTJIHfZdppsa1No5XvcQmXxHrjXhlJwcdiKzB2OR4t-oaAmBaEALw_wcB"}, 
+    {"message_id":16,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":-419746936,"date":1587063048,"text":"OPA!!"}, 
+    {"message_id":48,"from_id":933732398,"chat_id":-419746936,"date":1587063754,"text":"Ok"}, 
+    {"message_id":50,"from_id":933732398,"chat_id":-419746936,"date":1587063763,"text":"How are you?"}
+]

@@ -1,0 +1,15 @@
+{"message_id":19,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063231,"text":"Hi Weav, y a ok?"} 
+{"message_id":21,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063235,"text":"Ok"} 
+{"message_id":23,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063254,"text":"Do you see this link?"} 
+{"message_id":25,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063475,"text":"Hi"} 
+{"message_id":27,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063524,"text":"I am a test of bot"} 
+{"message_id":29,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063560,"text":"So, choose 1 of this number:\n1 2 3 4 5"} 
+{"message_id":32,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063607,"text":"Heloo"} 
+{"message_id":34,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063621,"text":"This a chat test"} 
+{"message_id":36,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063641,"text":"Bianca, i menos"} 
+{"message_id":38,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063653,"text":"Bianca, tá me vendo?"} 
+{"message_id":40,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063680,"text":"Ou, tô falando contigo mesmo!"} 
+{"message_id":42,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063690,"text":"Ce tá me vendo?"} 
+{"message_id":44,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063698,"text":"Não? Sério?"} 
+{"message_id":54,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063808,"text":"Pqp"} 
+{"message_id":56,"from_id":452956435,"from_user":"leonardoBonetti","chat_id":452956435,"date":1587063825,"text":"Olha só amor"} 
